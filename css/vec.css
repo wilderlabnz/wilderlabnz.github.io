@@ -115,7 +115,7 @@ header {
   font-family: "Droid Sans Mono", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: .875rem;
   font-weight: bold;
-  background: #1c63b7;
+  background: #1673c3;
   border-bottom: 1px solid #000;
   z-index: 99; }
   header ul, header ol {
@@ -148,7 +148,7 @@ footer {
   footer a {
     color: #ccc; }
   footer .footer-info {
-    border-top: .4rem double #1c63b7;
+    border-top: .4rem double #1673c3;
     padding-top: 0.25rem; }
 
 /* ============== Index ============== */
