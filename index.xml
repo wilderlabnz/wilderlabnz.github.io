@@ -29,7 +29,7 @@
       <guid>/faq/</guid>
       <description>We are an environmental DNA (eDNA) biomonitoring service based in Wellington, New Zealand. We specialize in biological water quality evaluation and the detection and monitoring of rare, cryptic and invasive species using new DNA sequencing technologies.
 We can help with:
- eDNA analysis Monitoring of rare and cryptic species Invasive species detection Pathogen detection and quantitation Water quality assessment High-throughput sequencing Bioinformatics Custom R package development Tagging and geospatial mapping Web applications  Please get in touch with your eDNA biomonitoring and biodetection requirements.</description>
+ eDNA analysis Monitoring of rare and cryptic species Invasive species detection Pathogen detection and quantitation Water quality assessment High-throughput sequencing Bioinformatics Custom R package development Tagging and geospatial mapping Web applications  wilderlab is owned and operated by Dr.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@ We can help with:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>wilderlab is owned and operated by Dr. Shaun Wilkinson, a molecular and computational biologist based in Wellington, New Zealand. See https://shaunpwilkinson.github.io/ for more information, or feel free to get in touch via email or phone (64210588068).</description>
+      <description>Please feel free to get in touch via email, phone (64210588068), or using the contact form below.</description>
     </item>
     
   </channel>
