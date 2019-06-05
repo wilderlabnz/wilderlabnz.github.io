@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>First Post</title>
+      <title>Hello, world!</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Tue, 04 Jun 2019 21:13:14 -0500</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description> First post First post
- </description>
+      <description>wilderlab is open for business. We can help with:
+ eDNA analysis Monitoring of rare and cryptic species Invasive species detection Pathogen detection and quantitation Water quality assessment High-throughput sequencing Bioinformatics Custom R package development Tagging and geospatial mapping Web applications  Please get in touch with your eDNA biomonitoring and biodetection requirements by email or phone (64210588068).</description>
     </item>
     
   </channel>

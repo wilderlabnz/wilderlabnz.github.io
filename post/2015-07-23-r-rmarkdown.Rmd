@@ -1,15 +1,28 @@
 ---
-title: "First Post"
+title: "Hello, world!"
 author: "Shaun Wilkinson"
 date: 2019-06-04T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["eDNA", "biomonitoring", "biodetection"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# First post
+**wilderlab** is open for business. We can help with: 
 
-First post
+* eDNA analysis
+* Monitoring of rare and cryptic species
+* Invasive species detection
+* Pathogen detection and quantitation
+* Water quality assessment
+* High-throughput sequencing
+* Bioinformatics
+* Custom R package development
+* Tagging and geospatial mapping
+* Web applications
+
+Please get in touch with your eDNA biomonitoring
+and biodetection requirements by [email](mailto:shaun@wilderlab.co.nz) or 
+phone (64210588068). 
